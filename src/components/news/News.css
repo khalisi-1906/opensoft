@@ -1,0 +1,25 @@
+.mainDiv{
+    display:flex;
+    flex-wrap:wrap;
+    margin-Right:6px;
+    padding-Right:5px;
+    margin-left:-15px;
+    border-radius: 18rem;
+
+
+}
+
+/* Cool Gradient Background */
+body {
+    background: white;
+    font-family: 'Poppins', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    margin: 0;
+  }
+
+ 

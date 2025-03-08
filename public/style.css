@@ -1,0 +1,12 @@
+/* Cool Gradient Background */
+body {
+    background: linear-gradient(135deg, #1e3c72, #2a5298); /* Deep blue gradient */
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+  }
